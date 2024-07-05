@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Comanda</string>
+    <string name="lbLogin">Login</string>
+    <string name="lbBienvenido">Bienvenido</string>
+    <string name="lbForgetPassword">Olvidaste la contraseña</string>
+    <string name="lbSign_in">Entrar</string>
+    <string name="hintUsername">Usuario</string>
+    <string name="hintPassword">Contraseña</string>
+
+    <string name="copyRight">© Copyright 2024 Todos Los Derechos Reservados</string>
+
+    <string name="lbTittle">Tittle</string>
+    <string name="lbDescription">Description</string>
+
+</resources>
